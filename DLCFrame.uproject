@@ -7,7 +7,7 @@
 		{
 			"Name": "DLCFrame",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+      "LoadingPhase": "Default"
 		}
 	]
 }
